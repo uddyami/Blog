@@ -3,12 +3,13 @@ title: Uddyami's Profile
 email: uddyamiagrawal@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Learn to use GitHub pages with Wheelhouse.io and Patchwork!
-baseurl: "/patchwork-gh-pages-24"
+baseurl: ""
 url: "http://uddyami.github.io"
 twitter_username: uddyami
 github_username:  uddyami
 permalink: /blog/:year/:title/
 
+[Linkedin] (https://www.linkedin.com/in/uddyami-agrawal-b9062414)
 
 # Build settings
 sass:
