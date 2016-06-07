@@ -107,6 +107,18 @@
     margin-left: 0;
 }
 
+.social-media-list li{
+  display: inline;
+}
+.social-media-list li a{
+  padding: 10px 10px;
+
+}
+
+.social-media-list li a:hover{
+  background-color: $grey-color-light;
+
+}
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
@@ -121,8 +133,8 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(55% - (#{$spacing-unit} / 2));
+    width:         calc(55% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {

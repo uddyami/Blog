@@ -4,5 +4,5 @@ name: "Uddyami Agrawal"
 title: "Software Developer"
 ---
 
-[Linkedin] (https://www.linkedin.com/in/uddyami-agrawal-b9062414)
-[Github] (https://github.com/uddyami)
+I am owner of a very curious brain who loves absorb as much knowledge I can find around me.
+Professionally I am a Android Developer and a mobile developer.  
