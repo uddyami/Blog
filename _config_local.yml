@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   This is my first Jekyll site, made following the tutorial at http://www.taniarascia.com/make-a-static-website-with-jekyll/
 baseurl: ""
 url: "http://localhost:4000"
-twitter_username: chowdhury
-github_username:  chowdhury
+twitter_username: uddyami
+github_username:  uddyami
 instagram: uddyami
 permalink: /blog/:year/:title/
 
