@@ -1,6 +1,6 @@
 # Site settings
-title: Nikolai's Portfolio
-email: nikolai@wheelhouse.io
+title: Uddyami's Portfolio
+email: ud@raise.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my first Jekyll site, made following the tutorial at http://www.taniarascia.com/make-a-static-website-with-jekyll/
 baseurl: ""
