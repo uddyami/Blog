@@ -18,3 +18,5 @@ kramdown:
 
 collections:
     - index
+
+theme: jekyll-theme-architect
