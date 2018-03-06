@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Welcome to Noise Chatter"
 date:   2016-07-07 1:30:00
 categories: intro
